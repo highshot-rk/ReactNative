@@ -1,0 +1,5 @@
+node_modules
+.expo/web
+yarn-error.log
+#mac OS
+.DS_Store

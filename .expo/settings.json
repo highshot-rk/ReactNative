@@ -1,0 +1,10 @@
+{
+  "hostType": "localhost",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "urlRandomness": "u2-tha",
+  "https": false,
+  "scheme": null,
+  "devClient": false
+}
